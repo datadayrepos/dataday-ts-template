@@ -44,9 +44,9 @@
       "pub": "npm publish --access public"
     },
     "devDependencies": {
+        "semver": "7.7.4",
         "@datadayrepos/eslint-config": "^1.0.1-beta.11",
         "@datadayrepos/eslint-plugin-datadayrepos": "1.0.0-Beta12",
-        "@datadayrepos/ni": "^0.21.8",
         "@types/node": "^20.8.3",
         "eslint": "^8.51.0",
         "eslint-plugin-sort-keys": "^2.3.5",
@@ -60,4 +60,3 @@
       ]
     }
   }
-  
