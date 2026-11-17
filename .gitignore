@@ -13,3 +13,4 @@ types
 coverage
 .eslintcache
 .vitepress/cache
+dependency-update-report.md
